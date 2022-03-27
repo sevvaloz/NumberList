@@ -1,0 +1,31 @@
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.exe
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.deps.json
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.runtimeconfig.json
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.runtimeconfig.dev.json
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.dll
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.pdb
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csprojAssemblyReference.cache
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.form.resources
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csproj.GenerateResource.cache
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.AssemblyInfoInputs.cache
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.AssemblyInfo.cs
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.dll
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.pdb
+C:\Users\holly\OneDrive\Masaüstü\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.genruntimeconfig.cache
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.exe
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.deps.json
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.runtimeconfig.json
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.runtimeconfig.dev.json
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.dll
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\bin\Debug\netcoreapp3.1\formOlusturma.pdb
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csproj.AssemblyReference.cache
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.form.resources
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csproj.GenerateResource.cache
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.AssemblyInfoInputs.cache
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.AssemblyInfo.cs
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.dll
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.pdb
+C:\Users\holly\Desktop\Bilgisayar Müh. Dersleri\2. Sınıf\1. DÖNEM\NESNE YÖNELİMLİ PROGRAMLAMA\3.Hafta\ödev\formOlusturma\formOlusturma\obj\Debug\netcoreapp3.1\formOlusturma.genruntimeconfig.cache
